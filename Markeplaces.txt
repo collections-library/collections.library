@@ -1,0 +1,107 @@
+### 1. Asia
+
+ToDo: Flipkart
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires valid corporate tax/GST registration in India). Average Annual Book Sales Volume:  High ($100M+)
+ToDo: Lazada
+  > Seller Eligibility: Both (Individual local accounts allowed; verified regional corporate LLC/Ltd accounts use LazMall). Average Annual Book Sales Volume:  Moderate ($10M - $50M)
+ToDo: Shopee
+  > Seller Eligibility: Both (Peer-to-peer individual accounts allowed; corporate LLC brands register via Shopee Mall). Average Annual Book Sales Volume:  Moderate to High ($30M - $80M)
+
+### 2. Australia
+
+ToDo: Bookzangle
+  > Seller Eligibility: Both (Requires strict screening; open to independent individual specialists and professional LLC bookstores). Average Annual Book Sales Volume:  Low ($1M - $5M)
+
+### 3. Continental Europe
+
+ToDo: Allegro (Poland / Central Europe)
+  > Seller Eligibility: Both (Supports standard individual private sellers and professional commercial accounts). Average Annual Book Sales Volume:  High ($50M - $100M)
+ToDo: Antikvariat.net (Scandinavia)
+  > Seller Eligibility: LLC / Ltd Companies Only (Strictly restricted to registered, screened professional antiquarian bookshops). Average Annual Book Sales Volume:  Low ($1M - $5M)
+Active: AntiqBook (Netherlands / Belgium)
+  > Seller Eligibility: Both (Highly popular with private individual hobbyists and independent professional bookstores). Average Annual Book Sales Volume:  Moderate ($15M - $30M)
+ToDo: Antiquariat.de (Germany)
+  > Seller Eligibility: LLC / Ltd Companies Only (Tailored strictly for commercial antiquarians and registered professional book dealers). Average Annual Book Sales Volume:  Low ($2M - $7M)
+Active: Boekwinkeltjes (Netherlands / Belgium)
+  > Seller Eligibility: Both (Highly popular with private individual hobbyists and independent professional bookstores). Average Annual Book Sales Volume:  Moderate ($15M - $30M)
+ToDo: Bokborsen (Sweden / Nordics)
+  > Seller Eligibility: Both (Composed of roughly 80% private individual sellers alongside professional antiquarian bookshops). Average Annual Book Sales Volume:  Moderate ($10M - $20M)
+Active/Selling: Bol.com (Benelux)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a verified European business registration and VAT number). Average Annual Book Sales Volume:  High ($100M+)
+Active: Books in Belgium (Belgium)
+  > Seller Eligibility: Both (Welcomes casual individual private sellers and independent professional LLC storefronts). Average Annual Book Sales Volume:  Low to Moderate ($2M - $8M)
+Active/Selling: Booklooker (Germany)
+  > Seller Eligibility: Both (Supports a massive network of private individuals alongside professional commercial dealers). Average Annual Book Sales Volume:  High ($40M - $80M)
+ToDo: Rakuten (France/Japan)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a verified professional business profile). Average Annual Book Sales Volume:  High ($40M - $70M)
+ToDo: Buchfreund (Germany)
+  > Seller Eligibility: LLC / Ltd Companies Only (Restricted to established commercial antiquarian bookshops). Average Annual Book Sales Volume:  Low to Moderate ($5M - $12M)
+ToDo: Cdiscount (France)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a verified professional business profile). Average Annual Book Sales Volume:  High ($40M - $70M)
+ToDo: eMAG (Romania / Eastern Europe)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a verified corporate entity to integrate with the regional marketplace). Average Annual Book Sales Volume:  Moderate to High ($20M - $50M)
+ToDo: Fnac / Darty (France)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a registered professional merchant license). Average Annual Book Sales Volume:  High ($50M - $100M)
+ToDo: Kaufland Marketplace (Germany / Central Europe)
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires a verified corporate profile and European tax registration). Average Annual Book Sales Volume:  Moderate to High ($30M - $60M)
+ToDo: Livre Rare Book (France / Europe)
+  > Seller Eligibility: LLC / Ltd Companies Only (Strictly restricted to registered professional booksellers). Average Annual Book Sales Volume:  Low to Moderate ($5M - $15M)
+Active: Maremagnum (Italy)
+  > Seller Eligibility: Both (Allows entry for individual collectors alongside professional antiquarian LLCs). Average Annual Book Sales Volume:  Low to Moderate ($3M - $10M)
+Active: Marktplaza (Netherlands)
+  > Seller Eligibility: Both (Operates as an open marketplace for private citizens and local businesses). Average Annual Book Sales Volume:  Low ($1M - $5M)
+ToDo: Todocoleccion (Spain / Southern Europe)
+  > Seller Eligibility: Both (Open to independent individual private sellers and professional commercial stockists). Average Annual Book Sales Volume:  Moderate to High ($20M - $45M)
+ToDo: ZVAB (Germany)
+  > Seller Eligibility: LLC / Ltd Companies Only (Strictly tailored for professional antiquarian business entities). Average Annual Book Sales Volume:  Moderate ($15M - $35M)
+
+### 4. Global / Multi-Regional
+
+ToDo: AbeBooks
+  > Seller Eligibility: Both (Accommodates serious individual private specialists and registered corporate LLCs via a monthly tiered subscription). Average Annual Book Sales Volume:  Very High ($200M+)
+Active/Selling: Amazon (3P)
+  > Seller Eligibility: Both (Offers Individual plans for casual sellers and Professional plans for high-volume LLC corporate accounts). Average Annual Book Sales Volume:  Absolute Highest ($1B+)
+Active/Selling: eBid
+  > Seller Eligibility: Both (Open to casual individual resellers and structured corporate businesses). Average Annual Book Sales Volume:  Low ($1M - $4M)
+Active/Selling: eBay
+  > Seller Eligibility: Both (Highly accessible to peer-to-peer individual accounts and multi-channel corporate entities). Average Annual Book Sales Volume:  Very High ($500M+)
+ToDo: Etsy
+  > Seller Eligibility: Both (Individual artisans and creative LLC companies can list inventory easily). Average Annual Book Sales Volume:  Moderate to High ($30M - $75M)
+ToDo: Facebook Marketplace
+  > Seller Eligibility: Both (Mainly used by local individuals, but supports business profiles and localized ads). Average Annual Book Sales Volume:  Moderate to High ($40M - $90M)
+
+### 5. Latin America
+
+ToDo: MercadoLibre
+  > Seller Eligibility: Both (Casual individual accounts allowed; professional LLC corporate brands sell via verified "Tiendas Oficiales"). Average Annual Book Sales Volume:  High ($80M - $150M)
+
+### 6. North America
+
+Active/Selling: Alibris
+  > Seller Eligibility: Both (Open to independent individual collectors and structured corporate bookstore networks). Average Annual Book Sales Volume:  High ($50M - $100M)
+ToDo: Biblio
+  > Seller Eligibility: Both (Welcomes independent individual private dealers and professional LLC antiquarian bookshops). Average Annual Book Sales Volume:  Moderate ($15M - $35M)
+ToDo: Bonanza
+  > Seller Eligibility: Both (Built for simple individual storefront setup or automated business LLC inventory syncing). Average Annual Book Sales Volume:  Low to Moderate ($5M - $12M)
+Active/Selling: eCrater
+  > Seller Eligibility: Both (Free web store builder open to individuals and small business LLCs). Average Annual Book Sales Volume:  Low ($1M - $3M)
+ToDo: Mercari
+  > Seller Eligibility: Both (Heavily dominated by individual private mobile app users, though small LLCs participate). Average Annual Book Sales Volume:  Moderate ($15M - $30M)
+ToDo: Storenvy
+  > Seller Eligibility: Both (Open to individual hobbyists and independent small press publishers). Average Annual Book Sales Volume:  Low ($2M - $6M)
+ToDo: Target Plus
+  > Seller Eligibility: Both (Requires an application process; accessible to individual collectors and professional resellers). Average Annual Book Sales Volume:  Moderate to High ($25M - $60M)
+ToDo: TikTok Shop US
+  > Seller Eligibility: Both (Individual content creators and registered corporate business LLCs can apply). Average Annual Book Sales Volume:  High ($50M - $120M)
+ToDo: Walmart Marketplace
+  > Seller Eligibility: LLC / Ltd Companies Only (Strict onboarding requirements; individuals are not permitted). Average Annual Book Sales Volume:  High ($60M - $120M)
+ToDo: Whatnot
+  > Seller Eligibility: Both (Requires an application process; accessible to individual collectors and professional resellers). Average Annual Book Sales Volume:  Moderate to High ($25M - $60M)
+
+### 7. United Kingdom / Great Britain
+
+ToDo: Fruugo
+  > Seller Eligibility: LLC / Ltd Companies Only (Requires an automated data feed integration and corporate retail setup). Average Annual Book Sales Volume:  Moderate to High ($30M - $65M)
+ToDo: Gumtree
+  > Seller Eligibility: Both (Highly popular with local individual private sellers, but also hosts local small business ads). Average Annual Book Sales Volume:  Low to Moderate ($5M - $15M)
+ 
