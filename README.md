@@ -1,8 +1,8 @@
 Old school elite and now usually ethical white hat 
 
-Get Element: https://element.io/en for IT Professionals
+Get Element https://element.io/en for IT Professionals
 
-Add the matrix of our organization to your element
+Add the full matrix of our organization to your element
 
 Forget Freelancer Platforms, AI Bots scanning every word
 
