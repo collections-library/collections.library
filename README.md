@@ -1,12 +1,14 @@
+Old school elite and now usually ethical white hat 
+
 Get Element: https://element.io/en for IT Professionals
 
-Add the matrix of my organization to your element
+Add the matrix of our organization to your element
 
 Forget Freelancer Platforms, AI Bots scanning every word
 
 Forget Site Admins, Human Agents and other scummers
 
-Enjoy Freedom of Speech right here or in your Browser
+Enjoy Freedom of Speech in your Browser or App
 
 BTW Welcome to the the Collections Library
 
