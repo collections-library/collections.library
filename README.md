@@ -1,5 +1,7 @@
 Get Element: https://element.io/en for IT Professionals
 
+Add the matrix of my organization to your element
+
 Forget Freelancer Platforms, AI Bots scanning every word
 
 Forget their Site Admins, Human Agents and other waste scum
