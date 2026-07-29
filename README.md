@@ -1,15 +1,22 @@
+
+Welcome to the Collections Library
+
+We've got work to do, so you dive right in
+
 Old school elite and now usually ethical white hat 
 
 Get Element https://element.io/en for IT Professionals
 
-Add the full matrix of our organization to your element
+Copy and paste our organization's matrix to your element
+
+|>>> ADD >>> @collections.library:matrix.org <<< ADD <<<|
 
 Forget Freelancer Platforms, AI Bots scanning every word
 
-Forget Site Admins, Human Agents and other scummers
+Forget Site Admins, Human Agents and other scammers
 
 Enjoy Freedom of Speech in your Browser or App
 
-BTW Welcome to the the Collections Library
+We've got work to do, so you dive right in
 
-We've got work to do, so dive right in
+Welcome to the Collections Library
