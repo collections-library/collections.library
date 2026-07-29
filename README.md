@@ -9,7 +9,7 @@ Get Element https://element.io/en for IT Professionals
 
 Copy and paste our organization's matrix to your element
 
-|>>> ADD >>> @collections.library:matrix.org <<< ADD <<<|
+ADD >>> https://matrix.to/#/@collections.library:matrix.org
 
 Forget Freelancer Platforms, AI Bots scanning every word
 
