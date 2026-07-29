@@ -1,10 +1,10 @@
-Get HitMeUp from the Chrome Web Store with End-to-End encryption
+Get Element: https://element.io/en for IT Professionals
 
 Forget Freelancer Platforms, AI Bots scanning every word
 
-Forget Site Admins, Human Agents and other filthy scammers
+Forget their Site Admins, Human Agents and other waste scum
 
-Enjoy Freedom of Speech right here or in your Chrome Browser
+Enjoy Freedom of Speech right here or in your Browser
 
 BTW Welcome to the the Collections Library
 
