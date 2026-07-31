@@ -1,0 +1,41 @@
+Abebooks Seller Account Workflow
+
+1. Pre-Registration Protocol
+- Dedicated Email Address: Establish a new, dedicated Gmail address intended for access to AbeBooks and sharing with us.
+- Unique Phone Number: Use a US SIM card phone number starting in +1 that has no prior order history with either Amazon or AbeBooks.
+
+2. Authentication and Account Security Configurations
+- Store Name: Apply a unique Store Name to the AbeBooks seller account.
+- Password: Apply a unique password to the AbeBooks seller account to facilitate shared management.
+
+3. Seller Account Verification Timeline (1 week)
+- AbeBooks Protocol: Seller applications require manual verification and approval by the AbeBooks Trust and Safety team, which typically takes 1 to 2 business days.
+- Processing Window: Expect a standard processing time of 2 to 3 business days for approval of the seller account.
+
+4. Privacy and Data Security
+- Please be assured that we respect your data privacy and have no long-term requirement or interest in retaining personal details.
+- Personal and financial information is used only to secure the platform's initial account approval.
+- Immediately following account activation, we will update the registration profile by replacing all personal and financial data with our own corporate data.
+
+5. Financial Routing and Card Validation
+- We strongly recommend using a new, single-purpose Wise account for all Abebooks transactions.
+- A new physical card requires a one-time setup fee of $10.00, while virtual cards can be generated instantly at no cost.
+- The Wise platform charges $0.00 in ongoing monthly subscription or account maintenance fees.
+
+6. Handover and Delivery Protocol (Scope: 6 days)
+- Credential Access: Share the login credentials for the newly created Gmail address.
+- Platform Access: Share the login credentials for the AbeBooks seller account.
+- Delivery Submission: Initiate and submit the formal order delivery via the Fiverr platform.
+
+7. Risk Assessment
+- We will securely access the seller profile to manually list an initial sample of 3-4 book titles.
+- The newly registered seller account will undergo a mandatory 24-hour verification period to check for operational flags.
+- We closely monitor the system to ensure the listings do not trigger automatic security restrictions, policy updates, or account health warnings.
+
+8. Final Order Approval
+- If the seller profile remains completely stable and free of safety triggers by the following Tuesday, we will approve and finalize the delivery of your order on Fiverr.
+- Upon successful order approval, we will submit an excellent service review to highlight your cooperation on the Fiverr platform.
+
+9. Compliance Monitoring
+- Once the account transition is complete, our team assumes full responsibility for daily operations under a managed-service structure.
+- Please maintain an active communication status on the Fiverr platform so we can swiftly coordinate and resolve any issues with the Abebooks platform.
